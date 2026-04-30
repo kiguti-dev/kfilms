@@ -1,4 +1,4 @@
-## 🎬 Kfilms
+## 🎬 Kfilms - Meu projeto
 
 Kfilms é um projeto desenvolvido para ver filmes em cartaz e procurar seu filme favorito de forma simples, rápida e intuitiva. A aplicação oferece uma experiência agradável para explorar filmes, visualizar detalhes e encontrar conteúdos com facilidade.
 
