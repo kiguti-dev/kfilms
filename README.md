@@ -14,4 +14,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 **Linguagens:** JavaScript, HTML, CSS <br>
 **Frameworks:** React, Node.js <br>
-**Banco de dados:** MYSQL. <br>
+**Banco de dados:** MYSQL <br>
