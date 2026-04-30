@@ -12,5 +12,6 @@ Kfilms é um projeto desenvolvido para ver filmes em cartaz e procurar seu filme
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-Linguagens: JavaScript, HTML, CSS
-Frameworks: React, Node.js
+**Linguagens:** JavaScript, HTML, CSS
+**Frameworks:** React, Node.js
+**Banco de dados:** MYSQL
