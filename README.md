@@ -1,6 +1,9 @@
-Kfilms é um projeto desenvolvido para [Ver filmes em cartaz, e procuar seu filme favorito].
+Kfilms
+
+Kfilms é um projeto desenvolvido para ver filmes em cartaz e procurar seu filme favorito.
 
 🚀 Funcionalidades
+
 📌 Listagem de filmes
 🔍 Busca por títulos
 ⭐ Avaliações e detalhes dos filmes
@@ -11,5 +14,5 @@ Kfilms é um projeto desenvolvido para [Ver filmes em cartaz, e procuar seu film
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-Linguagens: (JavaScript, HTML, CSS)
-Framework: (React, Node.js)
+Linguagens: JavaScript, HTML, CSS
+Frameworks: React, Node.js
